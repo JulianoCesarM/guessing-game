@@ -76,6 +76,7 @@ button:hover {
   background-color: green;
 }
 .resp {
+  color: white;
   padding: 15px;
   font-size: large;
 }
